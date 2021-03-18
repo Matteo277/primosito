@@ -1,0 +1,64 @@
+/*****************GENERAL**************/
+h1 {
+	color: red;
+}
+body {
+	font-family: Corbel, Arial, sans-serif;
+	margin: 0;
+}
+
+a{
+	color: #99ff66;
+	text-decoration: none;
+}
+
+/******************HEADER******************/
+#header{
+background-color: #6ab47b
+}
+h1{
+	font-size: 38px;
+	background-color: #99ff66; 
+	padding: 15px 0px 0px 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	border: 4px #6666ff solid;
+	margin: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+h2{
+	text-align: center;
+	margin: 0;
+}
+
+#nav{
+	text-align: center;
+	list-style-type: none;
+}
+
+#nav li{
+	padding: 6px 8px 6px 8px;
+	display: inline-block;
+}
+
+#nav li a {
+	color: #ffffff; 
+}
+
+#nav li:hover {
+background-color: #99ff66;
+}
+
+/******************CONTENT*****************/
+
+#content {
+	width: 600px
+	margin: 30px auto; 
+}
+
+#content h4 {
+	border-bottom:#99ff66 solid 3px;
+}
